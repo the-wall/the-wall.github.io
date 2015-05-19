@@ -5,6 +5,11 @@ Jekyll butler - Fully compatible with Github Pages
 See it in action: [Demo](http://the-wall.github.io).
 
 
+## Screenshot
+
+![The Wall](https://raw.githubusercontent.com/the-wall/the-wall.github.io/master/screenshot.png)
+
+
 ## Usage
 
 
